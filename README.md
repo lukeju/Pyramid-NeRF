@@ -1,3 +1,4 @@
+
 # Pyramid NeRF: Frequency Guided Fast Radiance Field Optimization
 
 Check out the paper on arXiv: https://arxiv.org/abs/2103.13744
@@ -28,4 +29,3 @@ To train a model yourself run
 
 The default dataset is `Synthetic_NeRF_Chair`, you can adjust the dataset by
 setting the dataset variable in the respective script.
-
