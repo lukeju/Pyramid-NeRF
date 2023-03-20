@@ -1,0 +1,14 @@
+dataset_dir: data/nsvf/Synthetic_NeRF/Chair200_200
+dataset_type: nsvf
+pretrained_cfg_path: cfgs/paper/pretrain/Synthetic_NeRF_Chair200_200.yaml
+pretrained_checkpoint_path: logs/paper/finetune/Synthetic_NeRF_Chair100_100/checkpoint_0010000.pth
+resolution:
+- 256
+- 256
+- 256
+subsample_resolution:
+- 3
+- 3
+- 3
+threshold: 10
+voxel_batch_size: 16384
