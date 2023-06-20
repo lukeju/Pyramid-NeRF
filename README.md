@@ -1,7 +1,7 @@
 
 # Pyramid NeRF: Frequency Guided Fast Radiance Field Optimization
 
-Check out the paper on arXiv: https://arxiv.org/abs/2103.13744
+Check out the paper: https://link.springer.com/article/10.1007/s11263-023-01829-3
 
 ![Pyramid NeRF pipeline](pyramid_training.png)
 
